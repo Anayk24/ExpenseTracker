@@ -22,3 +22,4 @@ A simple Java-based Expense Tracker project that records and manages daily expen
 
 ## Sample Output:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e0476abe-dd12-427f-8527-8b406a929933" />
